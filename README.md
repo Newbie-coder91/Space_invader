@@ -10,7 +10,7 @@ It is a Fun Game on which is created using Python (Module Used - Pygame)
 - Import Pygame module to Play this Game
 
 ## Sneak Peak
-![logo](C:\Users\prade\Videos\Captures\Space Invader 11-03-2025 08_57_12.png)
+![logo](Space Invader 11-03-2025 08_57_12.png)
 
 ## Technology Used
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
